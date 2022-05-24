@@ -1,0 +1,7 @@
+firebase init hosting
+
+firebase login
+
+firebase use --add
+
+firebase deploy
